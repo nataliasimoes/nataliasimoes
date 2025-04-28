@@ -1,6 +1,6 @@
 ## Hi, i'm Natália Simões 🖐️
 
-Learning, growing and sharing knowledge with the developer community. I'm a Front-end developer and I'm currently working at Imobme.
+Learning, growing and sharing knowledge with the developer community. I'm a fullstack developer and I'm currently working at Imobme.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nat%C3%A1lia-sim%C3%B5es-1093b1232/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vilanthy/)
