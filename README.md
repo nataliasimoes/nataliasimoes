@@ -133,14 +133,14 @@ Olá, me chamo Natália Simões, tenho 24 anos e sou natural do Rio Grande do No
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nataliasimoes&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api?username=nataliasimoes&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br&bg_color=00000000&hide_border=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliasimoes&theme=vue-dark&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=00000000" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliasimoes&theme=vue-dark&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=00000000&hide_border=true" 
   />
 
 </p>
